@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/media/morphin/Data1/projects/frameworks/bootstrap/bootstrap_4_scratch_5_projects/portfolio_grid/src/index.html': [{'sign_idx': 9500, 'line_nr': 163, 'content': '            <h2>What I Have Built?</h2>'},],}}
+let l:bm_current_session = 'default'
